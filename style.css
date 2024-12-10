@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.div1{
+    height: 15vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: x-large;
+}
+.ultaChatri{
+    transform: rotate(180deg);
+    display: inline-block;
+}
+.div2{
+    height: 5vh;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid rgb(221, 217, 217);
+    width: 90vw;
+    margin-left:80px;
+}
+.div3{
+    width: 90vw;
+    height: 70vh;
+    margin-left: 79px;
+    margin-top:5px;
+    background-image: url(Alpha-Bomber-Grey-Green-Teal-Orange.jpg);
+    background-size: cover;
+    background-position: 20% 20%;
+}
+.div3 h3{
+    font-weight: 600;
+    color: #feffd4;
+    position: relative;
+    left: 57px;
+    font-family: sans-serif;
+}
+.div3 h6{
+    position: relative;
+    left: 57px;
+}
+button{
+    width: 130px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    position: relative;
+    left: 105px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+button:hover{
+    background-color: rgb(24, 20, 20);
+}
+.insideDiv3{
+    position: relative;
+    top: 151px;
+    left: 178px;
+    color: white;
+    font-size: 40px;
+}
+.div4{
+    width: 90vw;
+    margin-left: 79px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.div5{
+    height:20vh;
+    font-size:30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: bold;
+}
+.div5 h3:hover{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.div6{
+    width: 90vw;
+    height: 60vh;
+    margin-left: 79px;
+    display: flex;
+    justify-content: space-between;
+}
+.div6 h2{
+    color: rgb(15, 148, 15);
+}
+.div6 h3{
+    font-size: 30px;
+}
+.shirtDiv6{
+    height: 55vh;
+    width: 27vw;
+    margin: 5px;
+    border: 2px solid rgb(175, 172, 172);
+    background-image: url(santhosh-kumar-RqYTuWkTdEs-unsplash.jpg);
+    background-size:cover;
+}
+.capDiv6{
+    height: 55vh;
+    width: 27vw;
+    margin: 5px;
+    border: 2px solid rgb(175, 172, 172);
+    background-image: url(angel-monsanto-iii-0wzyDMY8gCo-unsplash.jpg);
+    background-size:cover;
+}
+.jacketDiv6{
+    height: 55vh;
+    width: 27vw;
+    margin: 5px;
+    border: 2px solid rgb(175, 172, 172);
+    background-image: url(tobias-tullius-Fg15LdqpWrs-unsplash.jpg);
+    background-size:cover;
+}
+.tshirtDiv6{
+    height: 55vh;
+    width: 27vw;
+    margin: 5px;
+    border: 2px solid rgb(175, 172, 172);
+    background-image:url(faith-yarn-Wr0TpKqf26s-unsplash.jpg);
+    background-size:cover;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    font-size: 18px;
+}
+#searchBox{
+    width: 200px;
+    height: 30px;
+    border-radius: 2px rgb(232, 225, 225);
+}
+.marginLeftSearchBox{
+    margin-left: 30px;
+}
+.marginRightSymbols{
+    margin-right: 40px;
+    opacity: 0.4;
+}
+.cap{
+    width:44vw;
+    height: 40vh;
+    display: inline-block;
+    background-image: url(blake-wisz-p98GwQHzYPQ-unsplash.jpg);
+    background-size: cover;
+    background-position: 15% 15%;
+    color: #feffd4;
+    font-size: 45px;
+}
+.cap h4{
+    position: relative;
+    left: 105px;
+    top: 6px;
+}
+.cap h6{
+    position: relative;
+    left: 105px;
+    top:6px;
+    color: white;
+}
+.watch{
+    width:44vw;
+    height: 40vh;
+    display: inline-block;
+    background-image: url(pixel-bee-u8isJQ6QjF4-unsplash.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    color: #feffd4;
+    font-size: 45px;
+}
+.watch h4{
+    position: relative;
+    left: 105px;
+    top: 6px;
+}
+.watch h6{
+    position: relative;
+    left: 105px;
+    top:6px;
+    color: white;
+}
